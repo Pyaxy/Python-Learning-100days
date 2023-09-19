@@ -24,3 +24,14 @@ print(f"Hello, {name}!")
 
 
 
+## Day3
+
+### Random
+
+random.randint(a, b) 产生随机整数，范围在a-b
+
+random.random()产生0-1的浮点数，不包括1
+
+### 查文档
+
+docs.python.org
