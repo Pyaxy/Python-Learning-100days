@@ -35,3 +35,19 @@ random.random()产生0-1的浮点数，不包括1
 ### 查文档
 
 docs.python.org
+
+
+
+## Day4
+
+### loop
+
+```python
+for item in itrm_list:
+```
+
+```python
+for number in range(1, 10, step)
+# not including 10
+```
+
