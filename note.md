@@ -51,3 +51,23 @@ for number in range(1, 10, step)
 # not including 10
 ```
 
+## Day9
+
+### 字典
+
+形式：
+
+```python
+dic = {
+  key1: value1,
+  key2: value2,
+}
+```
+
+赋值：
+
+```python
+dic[key] = value
+```
+
+==在使用for循环遍历字典时，得到的是key值==
