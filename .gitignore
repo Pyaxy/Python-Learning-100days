@@ -3,3 +3,10 @@
 
 # 屏蔽python运行文件
 __pycache__/*
+
+# 屏蔽pycharm项目文件
+CoffeeMachineProject/.idea/*
+
+# 屏蔽.DS_Store
+.DS_Store
+CoffeeMachineProject/.DS_Store
